@@ -1,5 +1,16 @@
 # Engenharia de Dados com Databricks
 
+## Visão geral
+
+| Item | Resumo |
+|---|---|
+| Objetivo | Organizar vendas e identificar problemas de qualidade em dados sintéticos. |
+| Tipo | Laboratório de estudo com dados fictícios |
+| Situação | Código inicial; execução no Databricks pendente. |
+| Navegação | [Projetos](#projetos) · [Como começar](#começar-juntos) · [Validação](#validação) · [Roteiro](docs/ROTEIRO.md) |
+
+[Voltar ao portfólio](https://github.com/IgorGomes-ItSolutions)
+
 Portfólio de estudo de **Igor Gomes**, em transição para Engenharia de Dados.
 
 **Status: início do desenvolvimento.** O código inicial foi preparado com apoio de IA para estudo acompanhado. Ainda não foi executado no Databricks; não há resultados de produção ou experiência profissional implícita.
